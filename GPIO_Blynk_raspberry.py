@@ -6,6 +6,7 @@ import BlynkLib
 import RPi.GPIO as GPIO
 from BlynkTimer import BlynkTimer
 
+#Insert your auth_token here
 BLYNK_AUTH_TOKEN = 'JvbuHScbVW1XUW5CA4w9jI_zQ01UN-JF'
 
 led1 = 18
