@@ -8,9 +8,7 @@ Correr en consola:
 
 pip install RPi.GPIO
 
+Existen ejemplos de algunos scripts para Blynk en python en la carpeta blynk-library-python
 
-Correr por comando en la carpeta raiz que vamos a utilizar:
-
-git clone "https://github.com/vshymanskyy/blynk-library-python.git"
-
+Para hacer prueba, podemos correr el script "GPIO_Blynk-raspberry.py", modificando solo el Auth-Token que nos arroja la app de Blynk, y el numero del virtual port que elegimos.
 
